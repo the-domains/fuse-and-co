@@ -1,0 +1,28 @@
+name: 'Fuse & Co'
+favicon: null
+layout_spectrum: 0.37399772997014225
+typography_spectrum: 0.4888081904500723
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.1399681488983333
+  lightness: 0.7418984773103148
+  saturation: 0.09418444451875985
+  rhythmicContrast: 0.13180026225745678
+purpose: []
