@@ -2,6 +2,7 @@ name: 'Fuse & Co'
 favicon: null
 layout_spectrum: 0.01002
 typography_spectrum: 0.81109
+title: 'Fuse & Co'
 cta:
   domain: null
   bucket: null
